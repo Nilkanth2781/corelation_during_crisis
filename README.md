@@ -1,7 +1,7 @@
 
 ---
 
-# 📊 Correlations & CAPM Betas in Market Crises
+# 📊 Project 2: Correlations & CAPM Betas in Market Crises
 
 ## Overview
 
